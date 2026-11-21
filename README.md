@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahab-noor" alt="wahab-noor" /></a> </p>
 
-- 🔭 I’m currently working on [Spare Parts Pro](spareparts-pro--spare-parts-pro.asia-east1.hosted.app)
+- I’m currently working on [Spare Parts Pro](spareparts-pro--spare-parts-pro.asia-east1.hosted.app)
 
-- 🌱 I’m currently learning **Web App**
+- I’m currently learning **Web App**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-git-main-wahab-noor1.vercel.app](my-portfolio-git-main-wahab-noor1.vercel.app)
+- All of my projects are available at [my-portfolio-git-main-wahab-noor1.vercel.app](my-portfolio-git-main-wahab-noor1.vercel.app)
 
-- 💬 Ask me about **AI**
+- Ask me about **AI**
 
-- 📫 How to reach me **typistwahab1@gmail.com**
+- How to reach me **typistwahab1@gmail.com**
 
-- 📄 Know about my experiences [https://magenta-valerie-16.tiiny.site](https://magenta-valerie-16.tiiny.site)
+- Know about my experiences [https://magenta-valerie-16.tiiny.site](https://magenta-valerie-16.tiiny.site)
 
-- ⚡ Fun fact **Moral Stories**
+- Fun fact **Moral Stories**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
