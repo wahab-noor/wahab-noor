@@ -1,35 +1,199 @@
-<h1 align="center">Hi! I'm Abdul Wahab Noor</h1>
-<h3 align="center">Mobile App Developer at @JSK Logics</h3>
+<!-- ================= BANNER ================= -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahab-noor&label=Profile%20views&color=0e75b6&style=flat" alt="wahab-noor" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdul%20Wahab%20Noor&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%7C%20AI%20Integrations&descSize=18&descAlignY=60" alt="banner" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahab-noor" alt="wahab-noor" /></a> </p>
+### Mobile Engineer · Flutter Developer · AI Integrations
 
-- I’m currently working on [Spare Parts Pro](spareparts-pro--spare-parts-pro.asia-east1.hosted.app)
+Building clean, scalable mobile experiences for Android and iOS.
 
-- I’m currently learning **Web App**
+<!-- ================= BADGES ================= -->
+<a href="https://www.linkedin.com/in/abdul-wahab-noor-5b0567313"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:typistwahab1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/wahab-noor"><img src="https://img.shields.io/badge/GitHub-wahab--noor-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://my-portfolio-git-main-wahab-noor1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=flat-square&logo=vercel&logoColor=white"/></a>
 
-- All of my projects are available at [my-portfolio-git-main-wahab-noor1.vercel.app](my-portfolio-git-main-wahab-noor1.vercel.app)
+<br/>
 
-- Ask me about **AI**
+**X+ Years of Experience &nbsp;•&nbsp; X+ Mobile Apps &nbsp;•&nbsp; Android & iOS**
 
-- How to reach me **typistwahab1@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=wahab-noor&label=Profile%20views&color=0e75b6&style=flat-square"/>
 
-- Know about my experiences [https://magenta-valerie-16.tiiny.site](https://magenta-valerie-16.tiiny.site)
+</div>
 
-- Fun fact **Moral Stories**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abdul-wahab-noor-5b0567313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdul-wahab-noor-5b0567313" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mastibox kids" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mastibox kids" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+I'm **Abdul Wahab Noor**, a mobile application developer based in Rawalpindi, Pakistan, currently working as a **Mobile App Developer at JSK Logics**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahab-noor&show_icons=true&locale=en&layout=compact" alt="wahab-noor" /></p>
+I build cross-platform apps with Flutter, clean architecture, reliable backend integrations and smooth user interfaces. I enjoy solving real problems, integrating AI into products, and taking apps from idea to release.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahab-noor&show_icons=true&locale=en" alt="wahab-noor" /></p>
+- 🔭 Currently working on **Spare Parts Pro**
+- 🌱 Currently learning **Web Development (Next.js)**
+- 💬 Ask me about **Flutter & AI**
+- 📫 Reach me at **typistwahab1@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahab-noor&" alt="wahab-noor" /></p>
+---
+
+## Professional Experience
+
+| Timeline | Position | Company |
+|----------|----------|---------|
+| **2025 – Present** | Mobile App Developer | JSK Logics |
+| 20XX – 20XX | Flutter Developer | Company Name |
+
+<details>
+<summary><b>More about my experience</b></summary>
+
+<br/>
+
+**JSK Logics | Mobile App Developer**
+
+- Developed production Flutter applications.
+- Integrated Firebase, REST APIs and secure authentication.
+- Collaborated with designers, backend developers and QA teams.
+- (Add your own real points here)
+
+**Previous Company | Flutter Developer**
+
+- (Add your own real points here)
+
+</details>
+
+---
+
+## Technology Stack
+
+<div align="center">
+
+**Mobile Development**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" /><br/><br/>
+
+**Backend & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,postgres,mysql,sqlite" /><br/><br/>
+
+**Web**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js" /><br/><br/>
+
+**Languages & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,cpp" />
+
+</div>
+
+<br/>
+
+**Architecture & Engineering**<br/>
+`Clean Architecture` `MVVM` `Riverpod` `GetX` `BLoC` `Provider`
+
+**AI & Integrations**<br/>
+`OpenAI API` `Gemini API` `Google Maps` `REST APIs` `Firebase Cloud Functions`
+
+**Release & Delivery**<br/>
+`Git/GitHub` `Google Play Console` `App Store Connect`
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**Spare Parts Pro**<br/>
+*Spare parts management platform*<br/><br/>
+Short description of what the project does and your role in it.<br/><br/>
+`Flutter` `Firebase`<br/><br/>
+[View project](https://github.com/wahab-noor)
+
+</td>
+<td width="50%">
+
+**Weather App**<br/>
+*Real-time weather*<br/><br/>
+Weather application integrating the OpenWeather API.<br/><br/>
+`Flutter` `Dart` `REST API`<br/><br/>
+[View on GitHub](https://github.com/wahab-noor/Weather-App)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Random Quote Generator**<br/>
+*Minimalist quote app*<br/><br/>
+Generates random quotes with a clean UI/UX.<br/><br/>
+`Flutter` `Dart`<br/><br/>
+[View on GitHub](https://github.com/wahab-noor/codealpha_task1)
+
+</td>
+<td width="50%">
+
+**FlashCard Quiz App**<br/>
+*Self-made quizzes*<br/><br/>
+Users create their own flashcard quizzes with a minimalist interface.<br/><br/>
+`Flutter` `Dart`<br/><br/>
+[View on GitHub](https://github.com/wahab-noor/codealpha_task2)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Explore more projects</b></summary>
+
+<br/>
+
+| Project | Description |
+|---------|-------------|
+| Student Management System | Student records management (JavaScript) |
+| Project name | One-line description |
+| Project name | One-line description |
+
+</details>
+
+---
+
+## Engineering Philosophy
+
+<table>
+<tr>
+<td width="33%">
+
+**01. Architecture**<br/>
+Clean, modular, scalable code with maintainable patterns.
+
+</td>
+<td width="33%">
+
+**02. Experience**<br/>
+Responsive interfaces, smooth animations and reliable performance.
+
+</td>
+<td width="33%">
+
+**03. Delivery**<br/>
+End-to-end ownership from requirements to production release.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Education
+
+**Your Degree** — Your University *(20XX – 20XX)*
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wahab-noor&show_icons=true&hide_border=true&theme=default" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahab-noor&layout=compact&hide_border=true" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
